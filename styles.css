@@ -1,6 +1,11 @@
 /* 3. Style the button */
 
+.button {background-color: #FF69B4;
+  
+}
+
 /* 
+
     Basic styling for the button:
     - Set background color to Hot Pink (#FF69B4)
     - Make the text color white
@@ -8,10 +13,9 @@
     - Change the font size to 16px
     - Extra: Make the corners rounded
 */
-button {
-    font-size: 5px;
+.button {
+    font-size: 16px;
     cursor: pointer;
-    transition: transform 0.3s, background-color 0.3s, font-size 0.3s;
 }
 
 /* 
